@@ -1,17 +1,37 @@
 ---
 layout: default
-title: SIR Bot - Legal Policies
+title: SIR Security Bot - Official Policies
 ---
 
-# SIR Discord Bot - Legal Policies
+# 🔒 SIR Security Bot - Legal Policies
 
-Welcome to the official policies page for SIR Bot.
+**Verified Discord Bot • 100+ Servers • Advanced Security Features**
 
-- [Privacy Policy](/SIR-Bot-Policies/privacy-policy)
-- [Terms of Service](/SIR-Bot-Policies/terms-of-service)
+Welcome to the official policies portal for SIR Security Bot. Here you can find all our legal documentation and contact information.
 
-## Contact Information
-For any questions regarding these policies, please contact us:
-- **Discord:** [Your Discord Server Invite]
-- **Email:** [Your Email Address]
-- **GitHub:** [Your GitHub Profile]
+## 📄 Documentation
+
+- [**Privacy Policy**](./privacy-policy) - How we handle your data
+- [**Terms of Service**](./terms-of-service) - Usage guidelines and rules
+
+## 🤖 About SIR Security Bot
+
+SIR is a comprehensive security and moderation bot for Discord, featuring:
+- Advanced AutoMod system
+- Real-time member statistics
+- Message logging and monitoring
+- Server management tools
+
+## 📞 Contact Information
+
+For any questions regarding these policies or the bot:
+
+- **Discord Support Server:** [Join Our Community](https://discord.gg/BRMvw6CXmx)
+- **GitHub Issues:** [Report Here](https://github.com/963sir/SIR_Security/issues)
+- **Developer:** 963sir
+
+## 🔄 Update History
+
+- **Last Updated:** 2024
+- **Version:** 2.0
+- **Status:** Active and Maintained
