@@ -1,5 +1,7 @@
-title: "SIR Bot - Policies"
-description: "Privacy Policy and Terms of Service for SIR Discord Bot"
+title: "SIR Security Bot - Policies"
+description: "Official Privacy Policy and Terms of Service for SIR Security Discord Bot"
 theme: jekyll-theme-cayman
 url: "https://963sir.github.io"
-baseurl: "/SIR-Bot-Policies"
+baseurl: "/SIR_Security"
+markdown: kramdown
+repository: "963sir/SIR_Security"
