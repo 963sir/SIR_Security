@@ -3,78 +3,99 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy for SIR Discord Bot
+# Privacy Policy for SIR Security Bot
 
-**Last Updated:** [Current Date]
+**Last Updated:** 2024  
+**Effective Date:** 2024
 
-## 1. Information We Collect
+## 1. Introduction
 
-### 1.1 Message Content
-- We temporarily process message content **only** for:
-  - AutoMod filtration
-  - Deleted message logging
-  - Edited message tracking
-- **We do NOT store message content** persistently
-- Data is processed in real-time and immediately discarded
+This Privacy Policy explains how SIR Security Bot ("we", "our", "the bot") collects, uses, and protects your information when you use our Discord bot.
 
-### 1.2 User Presence Data
-- We collect user presence status (Online, Idle, DND, Offline)
-- Used exclusively for member statistics features
-- **Data is not stored** - processed in real-time only
+## 2. Information We Collect
 
-### 1.3 Server Information
-- Basic server metadata (name, ID, member count)
-- Required for bot functionality and command processing
+### 2.1 Message Content
+- **Purpose:** AutoMod filtration and message logging
+- **Processing:** Real-time only
+- **Storage:** Not stored persistently
+- **Scope:** Messages in servers where bot is active
 
-## 2. How We Use Your Information
+### 2.2 User Presence Data
+- **Purpose:** Member statistics and activity tracking
+- **Processing:** Real-time analysis
+- **Storage:** Not stored - processed and discarded immediately
 
-| Data Type | Purpose | Storage Duration |
-|-----------|---------|------------------|
-| Message Content | AutoMod & Logging | Real-time processing only |
-| Presence Data | Statistics Dashboard | Not stored |
-| User IDs | Command functionality | While bot is in server |
+### 2.3 Server Information
+- Server ID, name, and basic configuration
+- Member counts and role structures
+- Channel information for logging features
 
-## 3. Data Protection
+### 2.4 User Information
+- User IDs for command functionality
+- Role assignments for permission checking
+- No personal identification information collected
 
-### 3.1 Security Measures
-- End-to-end encryption for all data transmission
+## 3. How We Use Your Information
+
+| Data Type | Purpose | Retention |
+|-----------|---------|-----------|
+| Message Content | AutoMod & Security | Real-time only |
+| Presence Data | Statistics | Not stored |
+| User IDs | Command Processing | Session only |
+| Server Data | Functionality | While bot is in server |
+
+## 4. Data Protection & Security
+
+### 4.1 Security Measures
+- End-to-end encrypted communications
 - Regular security audits
-- No external data sharing or selling
+- No external data sharing
+- Secure Discord API integration
 
-### 3.2 Data Retention
-**We do NOT store:**
+### 4.2 Data Retention Policy
+**We DO NOT store:**
 - Message content long-term
-- User presence history
 - Personal conversation logs
+- User presence history
+- Private user information
 
-## 4. User Rights
+## 5. User Rights and Controls
 
-### 4.1 Right to Opt-Out
-Users can:
-- Disable specific logging features per-server
-- Request data deletion
-- Kick the bot from the server
+### 5.1 Opt-Out Options
+Server administrators can:
+- Disable specific logging features
+- Configure AutoMod settings
+- Remove bot from server at any time
 
-### 4.2 Data Deletion Requests
-Contact us via:
-- **Discord Server:** [Your Server Invite Link]
-- **Email:** [Your Email]
-- **GitHub Issues:** [Your Repo Issues Page]
+### 5.2 Data Deletion
+Users can request data deletion through:
+1. **Discord Support Server**
+2. **GitHub Issues**
+3. **Direct Message to Developer**
 
-## 5. Third-Party Services
+All requests are processed within 7 business days.
 
-We do not share data with any third-party services. All processing happens within Discord's infrastructure.
+## 6. Third-Party Services
 
-## 6. Changes to This Policy
+We do not share, sell, or transfer your data to any third-party services. All processing occurs within Discord's official infrastructure.
 
-Users will be notified of changes via:
+## 7. Legal Compliance
+
+This bot complies with:
+- Discord Developer Terms of Service
+- Discord API Guidelines
+- GDPR requirements for data protection
+
+## 8. Changes to This Policy
+
+We will notify users of significant changes via:
 - Discord announcement channels
-- Bot update notifications
+- Update notifications in the bot
 - GitHub repository updates
 
-## 7. Contact Us
+## 9. Contact Information
 
-**Developer:** 963sir
-- **Discord:** [Join Our Support Server](https://discord.gg/your-invite-link)
-- **GitHub:** [963sir](https://github.com/963sir)
-- **Email:** [Your Professional Email]
+For privacy-specific concerns:
+- **Discord:** [SIR Support Server](https://discord.gg/BRMvw6CXmx)
+- **GitHub:** [963sir/SIR_Security](https://github.com/963sir/SIR_Security)
+- **Response Time:** 24-48 hours
